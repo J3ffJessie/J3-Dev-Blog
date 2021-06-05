@@ -14,7 +14,7 @@ module.exports = {
       },
       resolve: "gatsby-source-dev",
       options: {
-        username: **`j3ffjessie`**
+        username: `j3ffjessie`
       }
     },
     `gatsby-transformer-sharp`,
