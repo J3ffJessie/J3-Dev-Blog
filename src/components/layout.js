@@ -37,9 +37,9 @@ const Layout = ({ children }) => {
         <footer style={{
           marginTop: `2rem`
         }}>
-          © {new Date().getFullYear()}, Built by
+          {new Date().getFullYear()}, Built by
           {` `}
-          <a href="https://j3dev.surge.sh">J3 Dev</a>
+          <a href="https://j3dev.tech">J3 Dev</a>
         </footer>
       </div>
     </>
